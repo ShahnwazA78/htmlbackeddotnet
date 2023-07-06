@@ -1,0 +1,134 @@
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\arpitdhuriya\Desktop\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.exe
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.deps.json
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.json
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\WebApplication1.pdb
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.AssemblyReference.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfoInputs.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.AssemblyInfo.cs
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CoreCompileInputs.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.Manifest.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\staticwebassets\WebApplication1.StaticWebAssets.xml
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\scopedcss\bundle\WebApplication1.styles.css
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.RazorTargetAssemblyInfo.cache
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.csproj.CopyComplete
+C:\Users\shahnwazansari\Downloads\HTML_Assignment_Backend (1)\HTML_Assignment_Backend\WebApplication1\obj\Debug\netcoreapp3.1\WebApplication1.genruntimeconfig.cache
